@@ -1,1 +1,3 @@
 # tech
+
+fact about tech
